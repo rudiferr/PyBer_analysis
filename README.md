@@ -2,6 +2,7 @@
 ## Overview of the PyBer Ride Sharing Analysis
 <!--- Explain the purpose of this analysis. --->
 After performing the initial analysis and creating a bubble chart of the PyBer ride sharing data, we saw that average fares of under-serviced cities were drastically higher compared to those that have a high presence of available drivers.
+
 ![Image of bubble chart comparing average fares, number of rides, and driver availability](https://github.com/rudiferr/PyBer_analysis/blob/main/analysis/Ride-Sharing_Data.png)
 
 We were tasked with creating a new dataframe to analyze the weekly shifts in the average fare of each city to get a better understanding of what changes need to be made.

@@ -17,5 +17,7 @@ The linechart above shows that total ride fares fluctuate greatly in the Spring 
 ## Summary
 <!--- Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types. --->
 As obtained from the bubble chart made earlier, we can conclude that ride counts and driver availability are directly proportional to each other, while average fares are inversely propotional to the prior mentioned. Obtaining access to more data such as geographical start and ends of the rides and distance of the rides will allow us to better understand the habits of the customer base of a certain city and can better answer which of the three qualities should be addressed first.
+
 Along the same vein of researching, additional measures should be put into finding a solution to the drop in total fares for rural and urban areas. The Drop during the end of April trends downward in a rather alarming spike, and could be a result of the irratic fare prices during the month before it.
+
 Though, if one thing is certain is that driver availability might be a huge limiting factor. Ride counts hit a theoretical maximum due to driver availability, and so logically it makes sense to think that driver availability will bottleneck revenue generation before anything else.
